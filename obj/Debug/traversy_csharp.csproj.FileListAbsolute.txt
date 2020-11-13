@@ -1,0 +1,7 @@
+C:\Users\concl\source\repos\traversy_csharp\bin\Debug\traversy_csharp.exe.config
+C:\Users\concl\source\repos\traversy_csharp\bin\Debug\traversy_csharp.exe
+C:\Users\concl\source\repos\traversy_csharp\bin\Debug\traversy_csharp.pdb
+C:\Users\concl\source\repos\traversy_csharp\obj\Debug\traversy_csharp.csprojAssemblyReference.cache
+C:\Users\concl\source\repos\traversy_csharp\obj\Debug\traversy_csharp.csproj.CoreCompileInputs.cache
+C:\Users\concl\source\repos\traversy_csharp\obj\Debug\traversy_csharp.exe
+C:\Users\concl\source\repos\traversy_csharp\obj\Debug\traversy_csharp.pdb
